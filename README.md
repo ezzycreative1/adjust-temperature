@@ -32,7 +32,7 @@ This FastAPI project is designed to demonstrate image temperature adjustment fun
 1. Run the FastAPI application:
 
     ```bash
-    uvicorn main:app --reload
+    uvicorn app.main:app --reload
     ```
 
 2. Open your browser and go to [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs) to access the Swagger documentation.
